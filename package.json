@@ -1,0 +1,12 @@
+{
+  "name": "space-station-parts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Peter Kedemo",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^3.10.1",
+    "simplex-solver": "0.0.3"
+  }
+}
